@@ -1,0 +1,9 @@
+{
+  "iOS": "1.0.0",
+  "android": "1.0.0",
+  "maintenance": {
+    "enabled": false,
+    "msg": "We are currently improving your app experience. Please try again later...",
+    "msg_ar": "نحن نعمل حاليًا على تحسين تجربة تطبيقك. يرجى المحاولة مرة أخرى لاحقًا..."
+  }
+}
